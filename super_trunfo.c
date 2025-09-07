@@ -47,7 +47,7 @@
             scanf(" %c", &Estado2);
 
             printf("\nInsira o código da carta sendo iniciado pela letra do estado seguida de um númedo de '01'a '04': ");
-            scanf("%s", &CodigoCarta2);
+            scanf(" %s", &CodigoCarta2);
 
             printf("Digite o nome da cidade: ");
             scanf("%s", &Cidade2);
@@ -84,7 +84,7 @@
             printf("População: %d\n", Populacao2);
             printf("Área: %.2f km²\n", Area2);
             printf("Pib: %.2f bilhões de reais\n", Pib2);
-            printf("Número de Pontos Turísticos: %d\n", PontoTuristico2);
+            printf("Número de Pontos Turísticos: %d\n\n", PontoTuristico2);
 
 
 
