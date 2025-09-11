@@ -140,7 +140,7 @@
             printf(" Densidade Populacional: Carta 1 venceu (%d)\n", ResultDens1 < ResultDens2);
             printf(" PIB Per Capita: Carta 1 venceu (%d)\n", PerCidade1 > PerCidade2);
             printf(" Super Poder: Carta 1 venceu (%d)\n\n", SuperpoderCarta1 > SuperpoderCarta2);
-
+                //Mostrar densidade 
             printf("Densidade Geográfica Carta 01: %f\n", ResultDens1);
             printf("Densidade Geográfica Carta 02: %f\n", ResultDens2);
 
